@@ -1,140 +1,154 @@
 # 9. Membership 
 ## Member List
 
-_Last updated Feb 27 2023. 128 total members, +7 new, -7 existing since the December update._
+_Last updated May 29 2023. 142 total members, +19 new, -5 existing since the February update._
 
 For transparency purposes, we are disclosing each Guild member's team, the name/identifier, and a link to their work. This set will evolve over time as members leave core development or change teams.
 
 | Team  |                Name / Link to work |
 |        :--- |        :--- |
- | 0xSplits | [donations.0xSplits.eth](https://github.com/0xSplits/) | 
- | EF DevOps | [Andrew Davis](https://github.com/Savid/) | 
- | EF DevOps | [Barnabas Busa](https://github.com/barnabasbusa/) | 
- | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 
- | EF DevOps | [Rafael Matias](https://github.com/skylenet/) | 
- | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 
- | EF Geth | [Gary Rong](https://github.com/rjl493456442/) | 
- | EF Geth | [Guillaume Ballet](https://github.com/gballet/) | 
- | EF Geth | [Jared Wasinger](https://github.com/jwasinger/) | 
- | EF Geth | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 
- | EF Geth | [Matt Garnett](https://github.com/lightclient/) | 
- | EF Geth | [Peter Szilagyi](https://github.com/karalabe/) | 
- | EF Ipsilon | [Andrei Maiboroda](https://github.com/gumb0/) | 
- | EF Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 
- | EF Ipsilon | [Paweł Bylica](https://github.com/chfast/) | 
- | EF JavaScript | [Andrew Day](https://github.com/acolytec3/) | 
- | EF JavaScript | [Gabriel](https://github.com/gabrocheleau/) | 
- | EF JavaScript | [Holger Drewes](https://github.com/holgerd77/) | 
- | EF JavaScript | [Jochem](https://github.com/jochem-brouwer/) | 
- | EF JavaScript | [Scotty Poi](https://github.com/ScottyPoi/) | 
- | EF Portal | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 
- | EF Portal | [Jason Carver](https://github.com/carver/) | 
- | EF Portal | [Mike Ferris](https://github.com/mrferris/) | 
- | EF Portal | [Ognyan Genev](https://github.com/ogenev/) | 
- | EF Portal | [Piper Merriam](https://github.com/pipermerriam/) | 
- | EF Privacy & Scaling Explorations (PSE) | [Kevaundray](https://github.com/kevaundray/) | 
- | EF Protocol Support | [Danny Ryan](https://github.com/djrtwo/) | 
- | EF Protocol Support | [Guru](https://github.com/gurukamath/) | 
- | EF Protocol Support | [Mario Havel](https://github.com/@taxmeifyoucan/) | 
- | EF Protocol Support | [Peter Davies](https://github.com/ultratwo/) | 
- | EF Protocol Support | [Sam Wilson](https://github.com/SamWilsn/) | 
- | EF Protocol Support | [Tim Beiko](https://github.com/timbeiko/) | 
- | EF Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) | 
- | EF Research | [Aditya Asgaonkar](https://github.com/adiasg/) | 
- | EF Research | [Alex Stokes](https://github.com/ralexstokes/) | 
- | EF Research | [Ansgar Dietrichs](https://github.com/adietrichs/) | 
- | EF Research | [Antonio Sanso](https://github.com/asanso/) | 
- | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) | 
- | EF Research | [Dankrad Feist](https://github.com/dankrad/) | 
- | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) | 
- | EF Research | [Francesco d’Amato](https://github.com/notes.ethereum.org/@fradamt/) | 
- | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 
- | EF Research | [Hsiao Wei Wang](https://github.com/hwwhww/) | 
- | EF Research | [Justin Drake](https://github.com/justindrake/) | 
- | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) | 
- | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 
- | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 
- | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 
- | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 
- | EF Security | [David Theodore](https://github.com/infosecual/) | 
- | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes/) | 
- | EF Security | [Justin Traglia](https://github.com/jtraglia/) | 
- | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) | 
- | EF Security | [Yoav Weiss](https://github.com/yoavw/) | 
- | EF Solidity | [Alex Beregszaszi](https://github.com/axic/) | 
- | EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 
- | EF Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) | 
- | EF Solidity | [Kamil Sliwak](https://github.com/cameel/) | 
- | EF Solidity | [Leonardo de Sa Alt](https://github.com/leonardoalt/) | 
- | EF Testing | [Mario Vega](https://github.com/marioevz/) | 
- | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 
- | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 
- | Erigon | [Artem Vorotnikov](https://github.com/vorot93/) | 
- | Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) | 
- | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 
- | Erigon | [Tullio Canepa](https://github.com/canepat/) | 
- | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 
- | Hyperledger Besu | [Ameziane](https://github.com/https://github.com/ahamlat/) | 
- | Hyperledger Besu | [Daniel Lehrner](https://github.com/daniellehrner/) | 
- | Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/) | 
- | Hyperledger Besu | [Fabio di Fabio](https://github.com/fab-10/) | 
- | Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) | 
- | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 
- | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 
- | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 
- | Independent | [Jim McDonald](https://github.com/mcdee/) | 
- | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 
- | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 
- | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 
- | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 
- | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) | 
- | Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) | 
- | Lighthouse | [Paul Hauner](https://github.com/paulhauner/) | 
- | Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 
- | Lighthouse | [Sean Anderson](https://github.com/realbigsean/) | 
- | Lodestar | [Afri](https://github.com/q9f/) | 
- | Lodestar | [Cayman Nava](https://github.com/wemeetagain/) | 
- | Lodestar | [dapplion](https://github.com/dapplion/) | 
- | Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 
- | Lodestar | [Nazar Hussain](https://github.com/nazarhussain/) | 
- | Lodestar | [Phil Ngo](https://github.com/philknows/) | 
- | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 
- | Nethermind | [Alexey Osipov](https://github.com/flcl42/) | 
- | Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 
- | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 
- | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 
- | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 
- | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 
- | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 
- | Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 
- | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 
- | Prysmatic | [James He](https://github.com/james-prysm/) | 
- | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 
- | Prysmatic | [Nishant Das](https://github.com/nisdas/) | 
- | Prysmatic | [potuz](https://github.com/potuz/) | 
- | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 
- | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) | 
- | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 
- | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 
- | Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 
- | Status | [Dustin Brody](https://github.com/tersec/) | 
- | Status | [Etan Kissling](https://github.com/etan-status/) | 
- | Status | [Eugene Kabanov](https://github.com/cheatfate/) | 
- | Status | [Jacek Sieka](https://github.com/arnetheduck/) | 
- | Status | [Jordan Hrycaj](https://github.com/mjfh/) | 
- | Status | [Kim De Mey](https://github.com/kdeme/) | 
- | Status | [Zahary Karadzhov](https://github.com/zah/) | 
- | Teku | [Ben Edgington](https://github.com/benjaminion/) | 
- | Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 
- | Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 
- | Teku | [Enrico Del Fante](https://github.com/tbenr/) | 
- | Teku | [Lucas Saldanha](https://github.com/lucassaldanha/) | 
- | Teku | [Mehdi Aouadi](https://github.com/mehdi-aouadi/) | 
- | Teku | [Paul Harris](https://github.com/rolfyone/) | 
- | Teku | [Stefan Bratanov](https://github.com/StefanBratanov/) | 
- | TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 
- | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 
- | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 
+ | EF DevOps | [Andrew Davis](https://github.com/Savid) | 
+ | EF DevOps | [Barnabas Busa](https://github.com/barnabasbusa) | 
+ | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh) | 
+ | EF DevOps | [Rafael Matias](https://github.com/skylenet) | 
+ | EF DevOps | [Sam Calder-Mason](https://github.com/samcm) | 
+ | EF Geth | [Felix Lange](https://github.com/fjl) | 
+ | EF Geth | [Gary Rong](https://github.com/rjl493456442) | 
+ | EF Geth | [Guillaume Ballet](https://github.com/gballet) | 
+ | EF Geth | [Jared Wasinger](https://github.com/jwasinger) | 
+ | EF Geth | [Kevaundray](https://github.com/kevaundray) | 
+ | EF Geth | [Marius van der Wijden](https://github.com/MariusVanDerWijden) | 
+ | EF Geth | [Martin Swende](https://github.com/holiman) | 
+ | EF Geth | [Matt Garnett](https://github.com/lightclient) | 
+ | EF Geth | [Peter Szilagyi](https://github.com/karalabe) | 
+ | EF Ipsilon | [Alex Beregszaszi](https://github.com/axic) | 
+ | EF Ipsilon | [Andrei Maiboroda](https://github.com/gumb0) | 
+ | EF Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc) | 
+ | EF Ipsilon | [Paweł Bylica](https://github.com/chfast) | 
+ | EF Ipsilon | [Radosław Zagórowicz](https://github.com/rodiazet) | 
+ | EF JavaScript | [Andrew Day](https://github.com/acolytec3) | 
+ | EF JavaScript | [Gabriel](https://github.com/gabrocheleau) | 
+ | EF JavaScript | [Holger Drewes](https://github.com/holgerd77) | 
+ | EF JavaScript | [Jochem](https://github.com/jochem-brouwer) | 
+ | EF JavaScript | [Scotty Poi](https://github.com/ScottyPoi) | 
+ | EF Portal | [Jacob Kaufmann](https://github.com/jacobkaufmann) | 
+ | EF Portal | [Jason Carver](https://github.com/carver) | 
+ | EF Portal | [Mike Ferris](https://github.com/mrferris) | 
+ | EF Portal | [Nick Gheorghita](https://github.com/njgheorghita) | 
+ | EF Portal | [Ognyan Genev](https://github.com/ogenev) | 
+ | EF Portal | [Piper Merriam](https://github.com/pipermerriam) | 
+ | EF Protocol Support | [Danny Ryan](https://github.com/djrtwo) | 
+ | EF Protocol Support | [Guru](https://github.com/gurukamath) | 
+ | EF Protocol Support | [Mario Havel](https://github.com/taxmeifyoucan) | 
+ | EF Protocol Support | [Peter Davies](https://github.com/petertdavies) | 
+ | EF Protocol Support | [Sam Wilson](https://github.com/SamWilsn) | 
+ | EF Protocol Support | [Tim Beiko](https://github.com/timbeiko) | 
+ | EF Protocol Support | [Trenton Van Epps](https://github.com/tvanepps) | 
+ | EF Research | [Aditya Asgaonkar](https://github.com/adiasg) | 
+ | EF Research | [Alex Stokes](https://github.com/ralexstokes) | 
+ | EF Research | [Ansgar Dietrichs](https://github.com/adietrichs) | 
+ | EF Research | [Antonio Sanso](https://github.com/asanso) | 
+ | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek) | 
+ | EF Research | [Dankrad Feist](https://github.com/dankrad) | 
+ | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich) | 
+ | EF Research | [Francesco d’Amato](https://github.com/fradamt) | 
+ | EF Research | [George Kadianakis](https://github.com/asn-d6) | 
+ | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww) | 
+ | EF Research | [Justin Drake](https://github.com/justindrake) | 
+ | EF Research | [Mark Simkin](msimkin.github.io) | 
+ | EF Research | [Pop](https://github.com/ppopth) | 
+ | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang) | 
+ | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson) | 
+ | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot) | 
+ | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa) | 
+ | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 
+ | EF Security | [David Theodore](https://github.com/infosecual) | 
+ | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes) | 
+ | EF Security | [Justin Traglia](https://github.com/jtraglia) | 
+ | EF Security | [Tyler Holmes](https://github.com/z3n-chada) | 
+ | EF Security | [Yoav Weiss](https://github.com/yoavw) | 
+ | EF Testing | [Mario Vega](https://github.com/marioevz) | 
+ | Erigon | [Alex Sharov](https://github.com/AskAlexSharov) | 
+ | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis) | 
+ | Erigon | [Artem Vorotnikov](https://github.com/vorot93) | 
+ | Erigon | [Giulio rebuffo](https://github.com/Giulio2002) | 
+ | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene) | 
+ | Erigon | [Tullio Canepa](https://github.com/canepat) | 
+ | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan) | 
+ | Hyperledger Besu | [Ameziane](https://github.com/ahamlat) | 
+ | Hyperledger Besu | [Daniel Lehrner](https://github.com/daniellehrner) | 
+ | Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon) | 
+ | Hyperledger Besu | [Fabio di Fabio](https://github.com/fab-10) | 
+ | Hyperledger Besu | [Gabriel Fukushima](https://github.com/gfukushima) | 
+ | Hyperledger Besu | [Gabriel Ziegler Trintinalia](https://github.com/Gabriel-Trintinalia) | 
+ | Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte) | 
+ | Hyperledger Besu | [Jason Frame](https://github.com/jframe) | 
+ | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero) | 
+ | Hyperledger Besu | [Justin Florentine](https://github.com/jflo) | 
+ | Hyperledger Besu | [Karim Taam](https://github.com/matkt) | 
+ | Hyperledger Besu | [Sally MacFarlane](https://github.com/macfarla) | 
+ | Hyperledger Besu | [Simon Dudley](https://github.com/siladu) | 
+ | Hyperledger Besu | [Stefan Pingel](https://github.com/pinges) | 
+ | Independent | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 
+ | Independent | [Jim McDonald](https://github.com/mcdee) | 
+ | Lighthouse | [Adrian Manning](https://github.com/AgeManning) | 
+ | Lighthouse | [Diva Martínez](https://github.com/divagant-martian) | 
+ | Lighthouse | [Mac Ladson](https://github.com/macladson) | 
+ | Lighthouse | [Mark Mackey](https://github.com/ethDreamer) | 
+ | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster) | 
+ | Lighthouse | [Michael Sproul](https://github.com/michaelsproul) | 
+ | Lighthouse | [Paul Hauner](https://github.com/paulhauner) | 
+ | Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176) | 
+ | Lighthouse | [Sean Anderson](https://github.com/realbigsean) | 
+ | Lodestar | [Afri](https://github.com/q9f) | 
+ | Lodestar | [Cayman Nava](https://github.com/wemeetagain) | 
+ | Lodestar | [dapplion](https://github.com/dapplion) | 
+ | Lodestar | [Gajinder Singh](https://github.com/g11tech) | 
+ | Lodestar | [Nazar Hussain](https://github.com/nazarhussain) | 
+ | Lodestar | [Phil Ngo](https://github.com/philknows) | 
+ | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv) | 
+ | Nethermind | [Alexey Osipov](https://github.com/flcl42) | 
+ | Nethermind | [Daniel Celeda](https://github.com/dceleda) | 
+ | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado) | 
+ | Nethermind | [Kamil Chodoła](https://github.com/kamilchodola) | 
+ | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej) | 
+ | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak) | 
+ | Nethermind | [Marek Moraczyński](https://github.com/MarekM25) | 
+ | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote) | 
+ | Nethermind | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 
+ | Nethermind | [Ruben Buniatyan](https://github.com/rubo) | 
+ | Nethermind | [smartprogrammer](https://github.com/smartprogrammer93) | 
+ | Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria) | 
+ | Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak) | 
+ | Nimbus | [Henri Dubois-Ferriere](https://github.com/henridf) | 
+ | Prysmatic | [James He](https://github.com/james-prysm) | 
+ | Prysmatic | [Kasey Kirkham](https://github.com/kasey) | 
+ | Prysmatic | [Nishant Das](https://github.com/nisdas) | 
+ | Prysmatic | [potuz](https://github.com/potuz) | 
+ | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon) | 
+ | Prysmatic | [Radosław Kapka](https://github.com/rkapka) | 
+ | Prysmatic | [Raul Jordan](https://github.com/rauljordan) | 
+ | Prysmatic | [Sammy Rosso](https://github.com/Saolyn) | 
+ | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311) | 
+ | Prysmatic | [Terence Tsao](https://github.com/terencechain) | 
+ | Status | [Dustin Brody](https://github.com/tersec) | 
+ | Status | [Etan Kissling](https://github.com/etan-status) | 
+ | Status | [Eugene Kabanov](https://github.com/cheatfate) | 
+ | Status | [Jacek Sieka](https://github.com/arnetheduck) | 
+ | Status | [Jordan Hrycaj](https://github.com/mjfh) | 
+ | Status | [Kim De Mey](https://github.com/kdeme) | 
+ | Status | [Zahary Karadzhov](https://github.com/zah) | 
+ | Teku | [Ben Edgington](https://github.com/benjaminion) | 
+ | Teku | [Courtney Hunter](https://github.com/courtneyeh) | 
+ | Teku | [Dmitry Shmatko](https://github.com/zilm13) | 
+ | Teku | [Enrico Del Fante](https://github.com/tbenr) | 
+ | Teku | [Lucas Saldanha](https://github.com/lucassaldanha) | 
+ | Teku | [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 
+ | Teku | [Paul Harris](https://github.com/rolfyone) | 
+ | Teku | [Stefan Bratanov](https://github.com/StefanBratanov) | 
+ | TXRX | [Alex Vlasov](https://github.com/ericsson49) | 
+ | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev) | 
+ | TXRX | [Mikhail Kalinin](https://github.com/mkalinin) | 
 
 ## Addresses and Weights
 For member privacy, the order of weights below does not correspond to the names above. These addresses and weights will change over time as members change from full-time to part-time (or vice-versa), and as members are on/offboarded.
@@ -143,134 +157,148 @@ Read more about how weighting is determined in [**6.3 Weighting**](https://proto
 
 | Address  |                Weight (% of total) |
 |        :--- |        :--- |
- | 0x5baf47751b4eeE90d7F9fd5EB75c3aD4162421E4 | 0.3491 |
- | 0xB61384c05086576ebD647C9217Ce0765Bd748bA1 | 0.3491 |
- | 0x2952C5774fCcC6935Fe0F44Ed57c0E7B4ED94972 | 0.3491 |
- | 0x784B5955Fe452c67be9c2f594C73C284f55771e7 | 0.3491 |
- | 0x384BfE9C770313d13c36F365437ba4C86f7EdfA8 | 0.3633 |
- | 0x3ed9D598b2099d99e9e49B1697729027C67926d2 | 0.377 |
- | 0x31e4B877B9033fcc355aF129Fcd387031007BBf0 | 0.377 |
- | 0xeF458C3fBC811912340D23AC5541839c7A7F3b08 | 0.377 |
- | 0x2D87c6679968a3A15b9B984a5d2C2ECe4B9cc7DC | 0.377 |
- | 0xC9187b5C81d63b289811A4fcb9AC7ADb7103639e | 0.4155 |
- | 0x456287fcC918525d664bB4F62C084BE4E85D019B | 0.4275 |
- | 0xab8b3647EF7FF66D2f38ee5eaEf2b158c4eb52A2 | 0.4506 |
- | 0x88DCc684da24Fd0aaE0770Dfa2223E7B7476Ad94 | 0.4506 |
- | 0xE1d0a84957B652f36769340C38944f1B97cF3e5E | 0.4506 |
- | 0x88cc2a9882Dd3462702e56DF1B438FaC6E203d4A | 0.4726 |
- | 0xC5A004f720FB103BD6Eb5de362115eB4986F635E | 0.4726 |
- | 0x5869C17c8934Ce9f674e88c7d4f8F94DCE193FCB | 0.4833 |
- | 0x7777788FB971B414EE0B4422367325151207C836 | 0.4937 |
- | 0x5E5EF2c688E6CE34A1d4b4771780716fE06848FA | 0.5138 |
- | 0x530eca5d32c1bf2865327df76f6dbc73dea1af5c | 0.5332 |
- | 0x66EE965FfC43D985633D04A044B47B7Ba8952EE1 | 0.5332 |
- | 0xfbbECa029104953F039537a111D07A6aC0549c3c | 0.5519 |
- | 0x9b796F2de75772f1634D78A3AB23A03778D3702a | 0.5519 |
- | 0xd31461D449fBFB88DD8D4E7D8fCcF79389f671E9 | 0.57 |
- | 0xf363C519F91E823184061e5BF28263262E2b9B8d | 0.57 |
- | 0x77b34f5E620e8Cfd1839b245beAADd27ae3A25FB | 0.5876 |
- | 0x046Fb65722E7b2455012BFEBf6177F1D2e9738D9 | 0.5876 |
- | 0x8360470F1793C91c953be453fcA52CC63dfCb367 | 0.5876 |
- | 0x4Bfa4639Cc1f4554122aBB930Aa897CDAe90d13b | 0.5876 |
- | 0xEB8E7c90014565EEd8126110630eFa2d9CD6eBE4 | 0.5876 |
- | 0x975D1040E93316917BD67dD32a02e1929F8aF8D3 | 0.5876 |
- | 0x3d5D2AC4fEcF16bb1651A445d5B17f977A823546 | 0.5876 |
- | 0x0906Eb682C6d12EdBE5e0A43E60068E1A7F8bea3 | 0.6046 |
- | 0xc66EFCcB88b3b7BdE6fC476d8cF139DD38075Ad7 | 0.6046 |
- | 0x00cDD7Fc085c86D000c0D54b3CA6fE83A8a806e5 | 0.6046 |
- | 0xEd46bFFd4b8237a9c7E08f55F0B410544f989813 | 0.6046 |
- | 0xfBd00109886216BFBb0570e28fAC905a4ed7AC26 | 0.6046 |
- | 0x9e7fa612eb6E771B0E918D94A0d524D6666Fa07E | 0.6046 |
- | 0x9d6d3b09F8AC8615805bd82e53B80D956F451CFa | 0.6129 |
- | 0x661b81d462D80786c442774F452464A8C627a20E | 0.6212 |
- | 0xe2A296b3d3AD4212b6030442e70419ff7B82FEE4 | 0.6212 |
- | 0xB7b93e217dd4E6E700E7362cB234d6258438D3b7 | 0.6212 |
- | 0x78ac9c2545850bEDbC076EB30ce7A6f0D74b395E | 0.6373 |
- | 0x2D56Cd519540bE541A3261E22e95d6507F5504Ca | 0.6373 |
- | 0x3210287ddEe6ece40d17A1F39799239b972A81F2 | 0.6373 |
- | 0x153afFb96Fcb60085Ee307996Bdd2df0183A3682 | 0.6373 |
- | 0x980a85ba6c2683e3509752dd3b4eB50165C0e65F | 0.6373 |
- | 0x2fb858991668840ce34F331402E0b3C66db078AF | 0.6373 |
- | 0x50122A5509F628e901F9c0238F0168833753239b | 0.653 |
- | 0x10c8597a5063A1648FfE13f54E996ba9bB3217B5 | 0.653 |
- | 0xa1506f8DC05b1c22Ba23CBfd4625C68599196E91 | 0.653 |
- | 0x0760E844e6f368ce73F1eEB917d37Db19375De3B | 0.6684 |
- | 0x71c15691e243bE88220957C784053EF0E084440B | 0.6684 |
- | 0xf0443945aD3BE9645382FC2537317dA97FEfF3A9 | 0.6684 |
- | 0x5abAdE91eD4B6d11b666280CaCb3E4A32898f39B | 0.676 |
- | 0x2bf7b04F143602692bBDc3EcbeA68C2c65278eee | 0.6834 |
- | 0x84f678A3e7BA8Fc817c32Ff10884D6FB20976114 | 0.6834 |
- | 0x0B916095200313900104bAcfc288462682C38700 | 0.6834 |
- | 0x5AC41B7E73680a3E77B941fEE0BAD04F59c9bB7d | 0.6834 |
- | 0xCb8DC3beC7B659022aE0d3E9de17322F31e4AA7C | 0.6981 |
- | 0x4d5083dd10f2a46f26f5583c6679f9f8d30ae850 | 0.7125 |
- | 0xbC349D1BEeE33c61F0395d1667E70056B4C869B9 | 0.7405 |
- | 0xC152fd31F285f6c0B3807070280595e7Ea713a7f | 0.7405 |
- | 0xe611a720778a5f6723d6b4866F84828504657181 | 0.7405 |
- | 0x644177F8D79117c2b9C7596527642B3c2D05888E | 0.7541 |
- | 0xb721c2e6640D963e99b37B6437ABAF6914A25A5e | 0.7674 |
- | 0xF8843981e7846945960f53243cA2Fd42a579f719 | 0.7685 |
- | 0x1E811588786841c713E68c37ef0CF60A967543EF | 0.774 |
- | 0xa1D76553266fA8Ed3D143794a462aaFAdfC34f74 | 0.7805 |
- | 0x3eD7bf997b7A91e9e8aB9eE2F7ce983bd37D6392 | 0.787 |
- | 0xFf9977FB117a22254a8eB6c6CE8d3Dd671FA70DC | 0.787 |
- | 0xf71E9C766Cdf169eDFbE2749490943C1DC6b8A55 | 0.787 |
- | 0x9915C453cc779109013F1aF0c4639277e8257212 | 0.7934 |
- | 0x925F5d6cCdB04F56fBa1cdcAd92E4eBb0d421411 | 0.7934 |
- | 0x49Aa00072a7BA8a5639C43Fe9F6536820E6F5d57 | 0.8061 |
- | 0xBc11295936Aa79d594139de1B2e12629414F3BDB | 0.8061 |
- | 0xC6cA7c3427AD6B7a06fbED6D18C394E540E31814 | 0.8186 |
- | 0x46cD90445349e64F895c403c23839e79eb4065e4 | 0.8309 |
- | 0xD55Bf29915D139777783bBA3Ae6237844823B73b | 0.855 |
- | 0x88dF07c605d13915B8E7D07dc8efD538dC0C5620 | 0.855 |
- | 0x92699d64C65c435D4a60E2ceEaEb931dB8B1cA09 | 0.8668 |
- | 0x35bc6a44AcFb79b5A47C1cbe2fD3C560a093a2B1 | 0.8668 |
- | 0xE4b99f9580B90d88C3e6dC3E0B853D8D3b0B8B55 | 0.8668 |
- | 0xa29576F07eAaD050AeACbc89AC0518B62fe2F88E | 0.8785 |
- | 0x80Bb92f389591d353654ac5580baefF7d0d6e778 | 0.8785 |
- | 0xe05875F287C028901798aC2Dc8C22Ba908b8eF36 | 0.8899 |
- | 0x004f67dabb603aaa58ed52641ccaff09c559704a | 0.9013 |
- | 0x799681f9b9d7c55ed59f5a0f235cAb132Cde0a2B | 0.9013 |
- | 0xb7A593EC62dc447eef23ea0e0B4d5144ac75ABC5 | 0.9013 |
- | 0xD4a3030b5f5e8DD4860d370C17E8576aE9951a2D | 0.9235 |
- | 0x6e22a5e30088c8389dc725bbead5f0675334299f | 0.9345 |
- | 0x10ab73AA48D686b7FD9ec9D50418a14DD23f6631 | 0.9345 |
- | 0x24113fFB07189D1e6E169025A424B58C29522972 | 0.9665 |
- | 0x6B29132ea388a308578c1d3Be068D0e4fc9915a2 | 0.977 |
- | 0x50d5e44700c10873875b4E75C4c9396562D83bE1 | 0.977 |
- | 0x873a45B49289b868E81547c6226357E7117e6070 | 0.9873 |
- | 0xd20BebA9eFA30fB34aF93AF5c91C9a4d6854eAC4 | 0.9873 |
- | 0x4B3105E9EC2B6069c1362388D429625a026f43e0 | 0.9873 |
- | 0x05618d6EFFe2E522F07B1dB692d47A68bfD6fFEa | 1.0276 |
- | 0xa87922d0074bCd82Ac82816633CcE68472548955 | 1.0375 |
- | 0x86F34D8b98171281AB8bFe65C7e2718E4f002e35 | 1.0472 |
- | 0xf5441a1b900a1D93e4c06CB9c3fDbA39F01469f0 | 1.0472 |
- | 0x0000006916a87b82333f4245046623b23794c65c | 1.0568 |
- | 0x7e59Df833869E2997d05e163D6004f3344A052FA | 1.0568 |
- | 0xAb96014a7c078f09418Cf899Bf197CadFf023C16 | 1.0664 |
- | 0x1de6938d9f9ebd43D0Cc56f0CeF1657D954c9A94 | 1.0664 |
- | 0xCA186e78bf657d4C5694CA5CA448D3766d2b55Bb | 1.0853 |
- | 0x7c1c1C2DE344dcDd7db65E5D52C5E1Ea862C6139 | 1.0853 |
- | 0x00a2d2d22f456125d64beda5a6f37273a13d9de0 | 1.0946 |
- | 0x6fFd2248Ab7E80ef51D7Eb4CB60964C830125567 | 1.1038 |
- | 0x3212974a4e53e5238f6ea193b36412db9ad61c26 | 1.1038 |
- | 0x5973D1af5c13168bdC85c6e78309272815995Ffb | 1.113 |
- | 0x376D5C3a16E9d015e8C584bB2d278E25F0ccb27B | 1.113 |
- | 0x9F60E4aF6020cc6a791B2d1Ce9902d25A72bA824 | 1.1221 |
- | 0xF51fc4c6Ab075482b61F5C1d4E72fADaFf8815F3 | 1.14 |
- | 0x3B16821A5dBBFF86E4a88eA0621EC6be016cd79A | 1.14 |
- | 0xe019836A41CB707F79b991f60e241918097aC16e | 1.1577 |
- | 0x299cB850bD75C07ef89978Bdc52e062Cc4fA0250 | 1.1577 |
- | 0x8cbf722adfbc071a12aae158a12a68397578017c | 1.1577 |
- | 0xBFbeaB0896E29d0Db26ad60278d3Ab3C482BB199 | 1.1665 |
- | 0xdF6C53Df56f3992FC44195518A2d8B16306Af9ff | 1.1751 |
- | 0xbB3F2F946E8eE2912830e365cF241293636cb057 | 1.1751 |
- | 0x797AbA41FD90740a2cA970d6706Af05aDe09335B | 1.1837 |
- | 0x497f0D190C513f51eAC234628200a5E62271a7A5 | 1.2259 |
- | 0xE9F19B6C72219f9B12C9c367405a90Ac9aFb2241 | 1.3292 |
- | 0x974B9cb3c122561e3bf6234651E0b82B88Fb9015 | 1.3816 |
- | 0x6591e7D655f248f6930195385C36b8D5Af679B8B | 1.4035 |
- | 0x9Bee5b17Eb847744b6a81Ee935409739F91c722c | 1.4107 |
+ | 0x554dcBaF9D1df74c195490d64E37eC0FdfED3c90 | 0.2752 |
+ | 0x14B44b350d3ae3147937Cc7689404E00dBc1DDdF | 0.2894 |
+ | 0x909102B9a0005B92D0091EdE42C8016F93151Ad2 | 0.3035 |
+ | 0xFb9c8a2bf86bC81e41A4569b0a2bc6d382B7A0E4 | 0.3424 |
+ | 0x48b76905b18c7c80e895bda18061a0E6842794F6 | 0.3424 |
+ | 0x5E1De79FC192618BBC85e62274b12aD0b48f6B3B | 0.3661 |
+ | 0x78fC08517B0e7fD99F10afff5C3e07049Cd00989 | 0.3661 |
+ | 0x27f672013538c9BBbE87EEbE6335302F68684DEf | 0.3661 |
+ | 0x3ed9D598b2099d99e9e49B1697729027C67926d2 | 0.3883 |
+ | 0x31e4B877B9033fcc355aF129Fcd387031007BBf0 | 0.3883 |
+ | 0x882337880eE78a7D32A069061994f619fd540F6d | 0.3883 |
+ | 0x2952C5774fCcC6935Fe0F44Ed57c0E7B4ED94972 | 0.3883 |
+ | 0x579Fc2cd54b0cA848b180BBc8ACf45C54982eeC5 | 0.3883 |
+ | 0xA3fD150da53b9B6F65eBb8210552DA9d56c32Bec | 0.3883 |
+ | 0xEB2FA209Be50FAe31948822b6AfD62292dD2463F | 0.3883 |
+ | 0x0CEFE7d96642a6A9e2c7E34ec1e431E4206D3a93 | 0.3883 |
+ | 0x5baf47751b4eeE90d7F9fd5EB75c3aD4162421E4 | 0.4093 |
+ | 0xB61384c05086576ebD647C9217Ce0765Bd748bA1 | 0.4093 |
+ | 0x784B5955Fe452c67be9c2f594C73C284f55771e7 | 0.4093 |
+ | 0xC9187b5C81d63b289811A4fcb9AC7ADb7103639e | 0.4194 |
+ | 0xeF458C3fBC811912340D23AC5541839c7A7F3b08 | 0.4293 |
+ | 0x2D87c6679968a3A15b9B984a5d2C2ECe4B9cc7DC | 0.4293 |
+ | 0xab8b3647EF7FF66D2f38ee5eaEf2b158c4eb52A2 | 0.4389 |
+ | 0x88DCc684da24Fd0aaE0770Dfa2223E7B7476Ad94 | 0.4484 |
+ | 0x456287fcC918525d664bB4F62C084BE4E85D019B | 0.4484 |
+ | 0xf1DF831EF8dea686508bB27252Ea86F72c012181 | 0.4484 |
+ | 0x7cC3E83CD74Df93FcC879EC7c905635eE6a6C233 | 0.4667 |
+ | 0x2FF65B929e7f3329E493501221e3C0C464667db2 | 0.4667 |
+ | 0x5869C17c8934Ce9f674e88c7d4f8F94DCE193FCB | 0.4756 |
+ | 0xE1d0a84957B652f36769340C38944f1B97cF3e5E | 0.4843 |
+ | 0x88cc2a9882Dd3462702e56DF1B438FaC6E203d4A | 0.5013 |
+ | 0xC5A004f720FB103BD6Eb5de362115eB4986F635E | 0.5013 |
+ | 0x232e6C4eb0882Fcf92865Dc1de98BcE2A56b6553 | 0.5177 |
+ | 0x384BfE9C770313d13c36F365437ba4C86f7EdfA8 | 0.5337 |
+ | 0x5E5EF2c688E6CE34A1d4b4771780716fE06848FA | 0.5337 |
+ | 0x925F5d6cCdB04F56fBa1cdcAd92E4eBb0d421411 | 0.5415 |
+ | 0x530eca5d32c1bf2865327df76f6dbc73dea1af5c | 0.5491 |
+ | 0x66EE965FfC43D985633D04A044B47B7Ba8952EE1 | 0.5491 |
+ | 0xf363C519F91E823184061e5BF28263262E2b9B8d | 0.5491 |
+ | 0xfbbECa029104953F039537a111D07A6aC0549c3c | 0.5642 |
+ | 0x9b796F2de75772f1634D78A3AB23A03778D3702a | 0.5642 |
+ | 0xd31461D449fBFB88DD8D4E7D8fCcF79389f671E9 | 0.5788 |
+ | 0x8360470F1793C91c953be453fcA52CC63dfCb367 | 0.5788 |
+ | 0x9d6d3b09F8AC8615805bd82e53B80D956F451CFa | 0.586 |
+ | 0x046Fb65722E7b2455012BFEBf6177F1D2e9738D9 | 0.5931 |
+ | 0x4Bfa4639Cc1f4554122aBB930Aa897CDAe90d13b | 0.5931 |
+ | 0xEB8E7c90014565EEd8126110630eFa2d9CD6eBE4 | 0.5931 |
+ | 0x975D1040E93316917BD67dD32a02e1929F8aF8D3 | 0.5931 |
+ | 0x3d5D2AC4fEcF16bb1651A445d5B17f977A823546 | 0.5931 |
+ | 0x0906Eb682C6d12EdBE5e0A43E60068E1A7F8bea3 | 0.6071 |
+ | 0xc66EFCcB88b3b7BdE6fC476d8cF139DD38075Ad7 | 0.6071 |
+ | 0x00cDD7Fc085c86D000c0D54b3CA6fE83A8a806e5 | 0.6071 |
+ | 0xe2A296b3d3AD4212b6030442e70419ff7B82FEE4 | 0.6071 |
+ | 0xEd46bFFd4b8237a9c7E08f55F0B410544f989813 | 0.6071 |
+ | 0xfBd00109886216BFBb0570e28fAC905a4ed7AC26 | 0.6071 |
+ | 0x9e7fa612eb6E771B0E918D94A0d524D6666Fa07E | 0.6071 |
+ | 0x661b81d462D80786c442774F452464A8C627a20E | 0.6207 |
+ | 0x2fb858991668840ce34F331402E0b3C66db078AF | 0.6207 |
+ | 0xB7b93e217dd4E6E700E7362cB234d6258438D3b7 | 0.6207 |
+ | 0x78ac9c2545850bEDbC076EB30ce7A6f0D74b395E | 0.6341 |
+ | 0x2D56Cd519540bE541A3261E22e95d6507F5504Ca | 0.6341 |
+ | 0x3210287ddEe6ece40d17A1F39799239b972A81F2 | 0.6341 |
+ | 0x153afFb96Fcb60085Ee307996Bdd2df0183A3682 | 0.6341 |
+ | 0x71c15691e243bE88220957C784053EF0E084440B | 0.6341 |
+ | 0x980a85ba6c2683e3509752dd3b4eB50165C0e65F | 0.6341 |
+ | 0xa1506f8DC05b1c22Ba23CBfd4625C68599196E91 | 0.6341 |
+ | 0x5abAdE91eD4B6d11b666280CaCb3E4A32898f39B | 0.6407 |
+ | 0x0760E844e6f368ce73F1eEB917d37Db19375De3B | 0.6472 |
+ | 0x50122A5509F628e901F9c0238F0168833753239b | 0.6472 |
+ | 0xf0443945aD3BE9645382FC2537317dA97FEfF3A9 | 0.6472 |
+ | 0x10c8597a5063A1648FfE13f54E996ba9bB3217B5 | 0.6472 |
+ | 0x0B916095200313900104bAcfc288462682C38700 | 0.66 |
+ | 0x2bf7b04F143602692bBDc3EcbeA68C2c65278eee | 0.6725 |
+ | 0x84f678A3e7BA8Fc817c32Ff10884D6FB20976114 | 0.6725 |
+ | 0x5AC41B7E73680a3E77B941fEE0BAD04F59c9bB7d | 0.6725 |
+ | 0xCb8DC3beC7B659022aE0d3E9de17322F31e4AA7C | 0.6849 |
+ | 0x86F34D8b98171281AB8bFe65C7e2718E4f002e35 | 0.691 |
+ | 0x4d5083dd10f2a46f26f5583c6679f9f8d30ae850 | 0.697 |
+ | 0xe611a720778a5f6723d6b4866F84828504657181 | 0.697 |
+ | 0xAb96014a7c078f09418Cf899Bf197CadFf023C16 | 0.7089 |
+ | 0xC152fd31F285f6c0B3807070280595e7Ea713a7f | 0.7089 |
+ | 0xbC349D1BEeE33c61F0395d1667E70056B4C869B9 | 0.7206 |
+ | 0x644177F8D79117c2b9C7596527642B3c2D05888E | 0.7322 |
+ | 0x3eD7bf997b7A91e9e8aB9eE2F7ce983bd37D6392 | 0.7379 |
+ | 0xFf9977FB117a22254a8eB6c6CE8d3Dd671FA70DC | 0.7379 |
+ | 0xf71E9C766Cdf169eDFbE2749490943C1DC6b8A55 | 0.7379 |
+ | 0xb721c2e6640D963e99b37B6437ABAF6914A25A5e | 0.7435 |
+ | 0x9915C453cc779109013F1aF0c4639277e8257212 | 0.7435 |
+ | 0xa1D76553266fA8Ed3D143794a462aaFAdfC34f74 | 0.7547 |
+ | 0xBc11295936Aa79d594139de1B2e12629414F3BDB | 0.7547 |
+ | 0x49Aa00072a7BA8a5639C43Fe9F6536820E6F5d57 | 0.7657 |
+ | 0xC6cA7c3427AD6B7a06fbED6D18C394E540E31814 | 0.7873 |
+ | 0x46cD90445349e64F895c403c23839e79eb4065e4 | 0.7979 |
+ | 0xD55Bf29915D139777783bBA3Ae6237844823B73b | 0.8186 |
+ | 0x88dF07c605d13915B8E7D07dc8efD538dC0C5620 | 0.8186 |
+ | 0xE4b99f9580B90d88C3e6dC3E0B853D8D3b0B8B55 | 0.8186 |
+ | 0x92699d64C65c435D4a60E2ceEaEb931dB8B1cA09 | 0.8288 |
+ | 0xa29576F07eAaD050AeACbc89AC0518B62fe2F88E | 0.8388 |
+ | 0x80Bb92f389591d353654ac5580baefF7d0d6e778 | 0.8388 |
+ | 0xe05875F287C028901798aC2Dc8C22Ba908b8eF36 | 0.8487 |
+ | 0x004f67dabb603aaa58ed52641ccaff09c559704a | 0.8586 |
+ | 0x799681f9b9d7c55ed59f5a0f235cAb132Cde0a2B | 0.8586 |
+ | 0xb7A593EC62dc447eef23ea0e0B4d5144ac75ABC5 | 0.8586 |
+ | 0xD4a3030b5f5e8DD4860d370C17E8576aE9951a2D | 0.8778 |
+ | 0x10ab73AA48D686b7FD9ec9D50418a14DD23f6631 | 0.8778 |
+ | 0x6e22a5e30088c8389dc725bbead5f0675334299f | 0.8873 |
+ | 0x24113fFB07189D1e6E169025A424B58C29522972 | 0.9152 |
+ | 0x6B29132ea388a308578c1d3Be068D0e4fc9915a2 | 0.9243 |
+ | 0x50d5e44700c10873875b4E75C4c9396562D83bE1 | 0.9243 |
+ | 0x873a45B49289b868E81547c6226357E7117e6070 | 0.9333 |
+ | 0xd20BebA9eFA30fB34aF93AF5c91C9a4d6854eAC4 | 0.9333 |
+ | 0x4B3105E9EC2B6069c1362388D429625a026f43e0 | 0.9333 |
+ | 0x05618d6EFFe2E522F07B1dB692d47A68bfD6fFEa | 0.9686 |
+ | 0xa87922d0074bCd82Ac82816633CcE68472548955 | 0.9772 |
+ | 0x7e59Df833869E2997d05e163D6004f3344A052FA | 0.9857 |
+ | 0xf5441a1b900a1D93e4c06CB9c3fDbA39F01469f0 | 0.9857 |
+ | 0x0000006916a87b82333f4245046623b23794c65c | 0.9942 |
+ | 0x1de6938d9f9ebd43D0Cc56f0CeF1657D954c9A94 | 1.0026 |
+ | 0x8894e499d6359F3A7955736794Ca9a0D536109Be | 1.0109 |
+ | 0x7c1c1C2DE344dcDd7db65E5D52C5E1Ea862C6139 | 1.0191 |
+ | 0x00a2d2d22f456125d64beda5a6f37273a13d9de0 | 1.0273 |
+ | 0x6fFd2248Ab7E80ef51D7Eb4CB60964C830125567 | 1.0355 |
+ | 0x3212974a4e53e5238f6ea193b36412db9ad61c26 | 1.0355 |
+ | 0x5973D1af5c13168bdC85c6e78309272815995Ffb | 1.0435 |
+ | 0x376D5C3a16E9d015e8C584bB2d278E25F0ccb27B | 1.0435 |
+ | 0x9F60E4aF6020cc6a791B2d1Ce9902d25A72bA824 | 1.0515 |
+ | 0x3B16821A5dBBFF86E4a88eA0621EC6be016cd79A | 1.0594 |
+ | 0xF51fc4c6Ab075482b61F5C1d4E72fADaFf8815F3 | 1.0673 |
+ | 0xe019836A41CB707F79b991f60e241918097aC16e | 1.0751 |
+ | 0x299cB850bD75C07ef89978Bdc52e062Cc4fA0250 | 1.0829 |
+ | 0x8cbf722adfbc071a12aae158a12a68397578017c | 1.0829 |
+ | 0xBFbeaB0896E29d0Db26ad60278d3Ab3C482BB199 | 1.0906 |
+ | 0xdF6C53Df56f3992FC44195518A2d8B16306Af9ff | 1.0983 |
+ | 0xbB3F2F946E8eE2912830e365cF241293636cb057 | 1.0983 |
+ | 0x797AbA41FD90740a2cA970d6706Af05aDe09335B | 1.1059 |
+ | 0x8b49fb41e0df3ea3d01ad9d06501bb5a2257ccb0 | 1.1134 |
+ | 0x497f0D190C513f51eAC234628200a5E62271a7A5 | 1.1431 |
+ | 0xE9F19B6C72219f9B12C9c367405a90Ac9aFb2241 | 1.2279 |
+ | 0x974B9cb3c122561e3bf6234651E0b82B88Fb9015 | 1.2813 |
+ | 0x6591e7D655f248f6930195385C36b8D5Af679B8B | 1.3008 |
+ | 0x9Bee5b17Eb847744b6a81Ee935409739F91c722c | 1.3008 |
+ | 0xEB34BD135aFc3054667ca74C9d19fbCD7D05F79F | 1.32 |
 
 ## Quotes
 
