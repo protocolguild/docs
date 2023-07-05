@@ -23,11 +23,12 @@ Slot holders are members of the Guild who have qualified for a placement (slot) 
 #### Qualifications
 
 Note 1: these guidelines will change over time, i.e. become more restrictive in some places and more permissive in others.
+
 Note 2: contributing to the projects/repos referenced below is necessary but does not guarantee Guild eligibility. While this list tries to be explicit by linking to example repos, there are some research areas which can't be linked to a single repo.
 
 Qualifying contributions _must_ be:
 
-- Fully open source, ie. both “source available” and free to fork, modify, redistribute
+- Fully open source, i.e. both “source available” and free to fork, modify, redistribute
 - The full focus of the individual (anything less receives a partial weighting, see [6.3 weighting](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting))
 - Continuous for at least 6 months ahead of inclusion and ongoing
 
@@ -36,21 +37,21 @@ Qualifying contributions _must_ target at least one of the following projects/ar
 1. Ethereum L1 core protocol maintenance and development
 
 - Production client implementations: Currently this includes [Erigon](https://github.com/ledgerwatch/erigon), [Geth](https://github.com/ethereum/go-ethereum), [Hyperledger Besu](https://github.com/hyperledger/besu), [Lighthouse](https://github.com/sigp/lighthouse), [Lodestar](https://github.com/ChainSafe/lodestar), [Nethermind](https://github.com/NethermindEth/nethermind), [Nimbus](https://github.com/status-im/nimbus-eth2), [Prysm](https://github.com/prysmaticlabs/prysm), [Teku](https://github.com/ConsenSys/teku)
-- Client Testing/security/infra which supports these implementations: [ethereum/tests](https://github.com/ethereum/tests) [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+- Client testing/security/infra which supports these implementations: [ethereum/tests](https://github.com/ethereum/tests) [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 - Coordination related to upgrades and maintenance: [ethereum/pm](https://github.com/ethereum/pm)
 
 2. Research and implementation experiments related to potential protocol changes/refinements
-- [Verkle Tries](https://github.com/gballet/go-verkle) (Verge)
+- [Verkle tries](https://github.com/gballet/go-verkle) (Verge)
 - [Portal Network](https://github.com/ethereum/portal-network-specs) (Purge)
-- EVM Improvements: [Ipsilon](https://github.com/ipsilon)
+- EVM improvements: [Ipsilon](https://github.com/ipsilon)
 - Consensus work
 - Cryptography
 - Mechanism design
 - Resource pricing
 
 3. Spec work resulting from the above (should be implementation agnostic, unopinionated)
-- [Execution Specs(EELS)](https://github.com/ethereum/execution-specs)
-- [Consensus Specs](https://github.com/ethereum/consensus-specs)
+- [Execution specs (EELS)](https://github.com/ethereum/execution-specs)
+- [Consensus specs](https://github.com/ethereum/consensus-specs)
 
 4. Protocol Guild itself
 - General comms
@@ -60,7 +61,7 @@ Qualifying contributions _must_ target at least one of the following projects/ar
 
 Independent or unaffiliated contributors are considered by the same guidelines as any contributors "officially" part of teams/projects.
 
-See [6.4 Modifying Projects and Members](URL) for guidelines on adding/removing eligible projects and members.
+See [6.4 Modifying Projects and Members](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#proposing-and-discussing-new-members) for guidelines on adding/removing eligible projects and members.
 
 #### Expectations
 
