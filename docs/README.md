@@ -1,4 +1,4 @@
-# Protocol Guild
+# ARCHIVED DOCS - Protocol Guild
 
 This is a new public goods funding mechanism: a split contract which distributes donated application tokens over a vesting period to a self-curated list of Ethereum protocol contributors. The primary goals: to provide autonomous tools for recruitment, retention, and reward to the protocol and its maintainers.
 
